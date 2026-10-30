@@ -16,7 +16,7 @@ Uygulama, **TanStack Start (SSR)**, **TypeScript** ve **Tailwind CSS** kullanıl
   - Terim ve Açılımı
   - Türkçe Karşılığı
   - Ayrıntılı Tanım
-  - Ne İşe Yarar / Çözülen Problem
+  - Ne İşe Yarar / Çözülen Problem 
   - Nasıl Çalışır? (Teknik & Mekanizma, matematiksel gösterimler)
   - Örnek Senaryo & Pratik Uygulama
   - Benzer Terimlerden Farkı
